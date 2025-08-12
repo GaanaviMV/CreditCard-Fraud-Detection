@@ -44,14 +44,3 @@ The only two features that have not been converted with PCA are ```Time``` and `
     <img src='https://github.com/sonnguyen129/Credit-Card-Fraud-Detection/raw/main/docs/model-performance.png'/>
 </p>
 
-## Installation
-
-* Clone this repository:
-    ```shell
-    git clone https://github.com/sonnguyen129/Credit-Card-Fraud-Detection
-    cd Credit-Card-Fraud-Detection
-    ```
-
-* Download [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and add in ```./dataset``` 
-
-* Simply run [notebook](notebook/Credit_Card_Fraud_Detection.ipynb)
